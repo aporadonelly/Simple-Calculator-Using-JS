@@ -1,0 +1,30 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Helvetica;
+}
+
+.container {
+	height: 100%;
+	background:#eaeaea;
+	color:#000;
+	width: 50%;
+	border-radius: 5px;
+}
+
+#result {
+	margin-top: 100px;
+}
+
+.btn {
+	width: 15%;
+	border-radius: 5px;
+	color: #fff;
+	margin-left: 25px;
+}
+
+.btn:hover {
+	color: #fff;
+	background: #000;
+}
